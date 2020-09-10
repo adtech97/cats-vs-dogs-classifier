@@ -16,23 +16,28 @@ Step 2: setup conda environment (Not compulsary to use conda recommend it becaus
 Step 3: Open Model-stats.ipynb run the model.
 
 ## Conda env setup guide
-1. Download and install Anaconda.Download link is  https://www.anaconda.com/products/individual
+1. Download and install Anaconda. For download link   [click here] (https://www.anaconda.com/products/individual)
 2. Its recomeded to create seperate conda eviornment 
-   for env creation use command conda create -n my-env-name.
+   for env creation use command conda
+   ```bash
+   create -n my-env-name
+   ```
 3. Install tensorflow you will find tensorflow in conda package itself
+   ```bash
    conda install tensorflow  -- for cpu version
    conda install tensorflow-gpu -- for GPU version
+   ```
 4. after step 3 you can run .py files but for jupyter u have config custom kernel.
 5. For kernel installation please go through following medium article
-   https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
+  [kernel-installation-guide] (https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
    
 
 ## Contributing
 As i mentioned in description PRs are always welcome but for major changes please open issue first with explaination why we need to change this. Once PR is made upload test reports and comparision stating how your change improves model.
 
 ## Dataset used for project
-Dataset is available on kaggle u can find it here https://www.kaggle.com/c/dogs-vs-cats/data
+Dataset is available on kaggle u can find it here [dogs-vs-cats](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 ## Credits
 
-https://www.kaggle.com/ruchibahl18/cats-vs-dogs-basic-cnn-tutorial
+[cats-vs-dogs-basic-cnn-tutorial](https://www.kaggle.com/ruchibahl18/cats-vs-dogs-basic-cnn-tutorial)
