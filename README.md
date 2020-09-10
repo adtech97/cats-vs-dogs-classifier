@@ -16,7 +16,7 @@ Step 2: setup conda environment (Not compulsary to use conda recommend it becaus
 Step 3: Open Model-stats.ipynb run the model.
 
 ## Conda env setup guide
-1. Download and install Anaconda. For download link   [click here] (https://www.anaconda.com/products/individual)
+1. Download and install Anaconda. For download link   [click here](https://www.anaconda.com/products/individual)
 2. Its recomeded to create seperate conda eviornment 
    for env creation use command conda
    ```bash
@@ -29,7 +29,7 @@ Step 3: Open Model-stats.ipynb run the model.
    ```
 4. after step 3 you can run .py files but for jupyter u have config custom kernel.
 5. For kernel installation please go through following medium article
-  [kernel-installation-guide] (https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
+  [kernel-installation-guide](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
    
 
 ## Contributing
