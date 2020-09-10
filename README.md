@@ -39,4 +39,4 @@ Dataset is available on kaggle u can find it here [dogs-vs-cats](https://www.kag
 
 ## Credits
 
-[cats-vs-dogs-basic-cnn-tutorial](https://www.kaggle.com/ruchibahl18/cats-vs-dogs-basic-cnn-tutorial)
+[cats-vs-dogs-basic-cnn-tutorial](https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification)
