@@ -9,11 +9,10 @@ Currently Underfiiting and overfitting are not taken care of as project is in ve
 
 ## Clone and use 
 Git repository can be cloned with git clone also can directly download from git hub
-
-Step 1: Clone repository in local directory
-Step 2: setup conda environment (Not compulsary to use conda recommend it because iteasy to setup)
+1. Clone repository in local directory
+2. setup conda environment (Not compulsary to use conda recommend it because iteasy to setup)
         conda setup guide will be given below
-Step 3: Open Model-stats.ipynb run the model.
+3. Open Model-stats.ipynb run the model.
 
 ## Conda env setup guide
 1. Download and install Anaconda. For download link   [click here](https://www.anaconda.com/products/individual)
