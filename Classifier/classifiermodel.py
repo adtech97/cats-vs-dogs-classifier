@@ -1,6 +1,7 @@
 import tensorflow as tf
 
 from tensorflow.keras.optimizers import RMSprop
+
 '''
 :returns model, model.summary
 '''
@@ -23,7 +24,7 @@ def model():
                                         tf.keras.layers.Dense(512, activation='relu'),
                                         tf.keras.layers.Dense(2, activation='softmax')])
 
-    model.compile(optimizer=RMSprop(lr=0.001),
+    model.compile(optimizer=RMSprop(),
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
 
